@@ -3,7 +3,7 @@
 ## Learning Goals
 
 - Set up your local environment for deploying with Render.
-- Deploy a basic Flask application to Render.
+- Deploy a basic Flask application to Render..
 
 ---
 
